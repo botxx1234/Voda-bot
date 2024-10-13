@@ -8,10 +8,10 @@
   "approval": false,
   "saveState": true,
   "BOTNAME": "𝐑𝐈𝐇𝐀𝐍-𝐁𝐎𝐓",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "OPERATOR": [
     "100087415821444",
-    "100000959749712"
+    "100092156637861"
   ],
   "ADMINBOT": [
     "100087415821444",
